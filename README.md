@@ -1,2 +1,2 @@
 # my-second-repo
-this is a seconf repo
+this is a seco repo
